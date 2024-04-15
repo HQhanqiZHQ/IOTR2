@@ -1,2 +1,3 @@
-# IOTR2
-Second project on Individualized Omni-channel Treatment Rule
+# MLRWL
+
+### Python implementation of the Multi-Label Residual Weighted Learning for Individualized Combination Treatment Rule
